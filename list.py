@@ -1,0 +1,5 @@
+n=eval(input())
+a=min(n)
+b=max(n)
+c=sum(n)/leen(a)
+print("max="a,"min=",b,"avg=",d)
